@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Henson Brix A. Arroyo
+# 👋 Hi there!
 
-**Junior Full-Stack Developer** | BSIT Student @ LSPU  
-
-[🌐 Portfolio](https://hensonbrix-portfolio.vercel.app) • [LinkedIn](https://www.linkedin.com/in/arroyohensonbrix/) • 📧 arroyobrix@gmail.com  
+Building modern web & mobile apps with **PERN Stack, Flutter, and AI/ML** 🚀  
 
 ---
 
@@ -26,20 +24,19 @@
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 - **BSIT – Web & Mobile App Development** | LSPU Santa Cruz (2022 – Present)  
 - **Senior High – STEM** | AMA Computer College (2020 – 2022)  
 
-**Certifications:**  
-Cybersecurity for ICT Professionals • Linux Essentials • Design Thinking: Ideation • Lost Pet AI Deployment & ML  
-
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
 
-![Henson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xhenzouu&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xhenzouu&layout=compact&theme=radical)
+- Cybersecurity for ICT Professionals — DICT Region V  
+- Linux Essentials — Cisco Networking Academy  
+- Design Thinking: Ideation Wednesdays — DICT Caraga  
+- Lost Pet AI Deployment & ML — Personal Project  
 
 ---
 
