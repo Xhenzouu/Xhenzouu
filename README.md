@@ -42,8 +42,7 @@ Building modern web & mobile apps with **PERN Stack, Flutter, and AI/ML** 🚀
 
 ## 📫 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Xhenzouu) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arroyohensonbrix/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arroyohensonbrix/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4081?style=flat&logo=google-chrome&logoColor=white)](https://hensonbrix-portfolio.vercel.app)  
 
 📧 arroyobrix@gmail.com • 📱 +63-966-314-8788  
