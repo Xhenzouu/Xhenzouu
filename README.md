@@ -4,22 +4,14 @@ Building web & mobile apps with **PERN Stack, Python, AI/ML**
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Skills
 
-**Frontend:**  
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+| Frontend       | Backend            | Mobile       | Database       | DevOps        | Emerging      |
+|----------------|------------------|-------------|---------------|--------------|---------------|
+| ⚛ React ■■■■■■■ | 🟢 Node.js ■■■■■■■ | 🌀 Flutter ■■■■ | 🐘 PostgreSQL ■■■■■■ | 🔧 Git ■■■■■■ | 🐍 Python ■■■■■ |
+| 🎨 Figma • UI/UX | ⚙ Express • Flask | 📱 Cross-platform | ⚡ Optimization  | 🚀 Railway • CI/CD | 🤖 AI/ML • IoT |
 
-**Backend:**  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-**Mobile:**  
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-
-**DevOps & Tools:**  
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white" />
-
-**Emerging:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/IoT-6E40C9?style=for-the-badge" />
+> **Legend:** ■■■■■■■ = strong experience, ■■■■□□ = moderate, ■■□□□□ = beginner  
 
 ---
 
