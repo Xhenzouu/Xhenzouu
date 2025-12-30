@@ -38,7 +38,7 @@ Cybersecurity for ICT Professionals • Linux Essentials • Design Thinking: Id
 
 ## 📊 GitHub Stats
 
-![Henson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xhenzouu&show_icons=true&theme=radical)  
+![Henson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xhenzouu&show_icons=true&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xhenzouu&layout=compact&theme=radical)
 
 ---
