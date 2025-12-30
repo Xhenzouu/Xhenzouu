@@ -17,17 +17,17 @@ Building web & mobile apps with **PERN Stack, Python, AI/ML**
 
 ## 🔥 Projects
 
-- **[Lynville Homes 8](https://lynvillehomes8.me)**  
-  Community management platform for 447+ users. PERN stack, Railway deployment, threaded comments, NLP complaint classification.
+- **Lynville Homes 8**  
+  **Community management platform for 447+ users. PERN stack, Railway deployment, threaded comments, NLP complaint classification.**
+
+- **Lost Pet Reunion AI**  
+  **Machine learning web app predicting lost pet reunion likelihood. Python + Streamlit, interactive and mobile-friendly.**
 
 - **Chairable**  
-  Cross-platform e-commerce app. Flutter frontend, Flask backend, PostgreSQL database, multi-role system (customer, seller, admin).
+  **Cross-platform e-commerce app. Flutter frontend, Flask backend, PostgreSQL database, multi-role system (customer, seller, admin).**
 
 - **GamingRigz POS**  
-  Offline desktop POS using C# .NET WinForms. Embedded database, automated inventory and sales reports.
-
-- **[Lost Pet Reunion AI](https://lost-pet-ai.streamlit.app/)**  
-  Machine learning web app predicting lost pet reunion likelihood. Python + Streamlit, interactive and mobile-friendly.
+  **Offline desktop POS using C# .NET WinForms. Embedded database, automated inventory and sales reports.**
 
 ---
 
