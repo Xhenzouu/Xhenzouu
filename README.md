@@ -8,8 +8,10 @@ Building web & mobile apps with **PERN Stack, Flutter, AI/ML** 🚀
 
 | Frontend       | Backend            | Mobile       | Database       | DevOps        | Emerging      |
 |----------------|------------------|-------------|---------------|--------------|---------------|
-| React ■■■■■□□  | Node.js ■■■■■□□   | Flutter ■■■■■■ | PostgreSQL ■■■■■■ | Git ■■■■■■ | Python ■■■■■□ |
+| React ■■■■■■■  | Node.js ■■■■■■■  | Flutter ■■■■ | PostgreSQL ■■■■■■ | Git ■■■■■■ | Python ■■■■■ |
 | Figma • UI/UX | Express • Flask  | Cross-platform | Optimization  | Railway • CI/CD | AI/ML • IoT |
+
+> **Legend:** ■■■■■■■ = strong experience, ■■■■□□ = moderate, ■■□□□□ = beginner  
 
 ---
 
