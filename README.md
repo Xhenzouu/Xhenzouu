@@ -7,23 +7,20 @@ Building web, mobile, and AI/ML apps with PERN Stack, Python, and Flutter.
 
 ## Skills & Tools
 
-### Frontend
-React • CSS3 • HTML5 • Figma • Responsive Design
+**Frontend:**  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-### Backend
-Node.js • Express • Flask • PERN • RESTful APIs • WebSockets
+**Backend:**  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-### Mobile
-Flutter (moderate) • Cross-platform apps
+**Mobile:**  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-### Databases
-PostgreSQL • Optimization • Migrations
+**DevOps & Tools:**  
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white" />
 
-### DevOps & Tools
-Git • Railway • Postman • CI/CD
-
-### Emerging
-Python • AI/ML • SMS Integration • IoT Prototyping • C# .NET
+**Emerging:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/IoT-6E40C9?style=for-the-badge" />
 
 ---
 
