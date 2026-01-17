@@ -10,6 +10,7 @@ Building web & mobile apps with **PERN Stack, Python, AI/ML**
 - **Mobile Development**: Flutter, Dart
 - **Databases**: PostgreSQL
 - **DevOps & Tools**: Railway, Git, CI/CD, Automation
+- **Design Tools**: Figma, Adobe XD
 - **AI/ML**: Machine Learning
 - **IoT**: NodeMCU
 
