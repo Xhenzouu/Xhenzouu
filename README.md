@@ -6,13 +6,13 @@ Building web & mobile apps with **PERN Stack, Python, AI/ML**
 
 ## 🛠 Skills
 
-- **Web Development**: React.js, Express.js, Node.js
-- **Mobile Development**: Flutter, Dart
-- **Databases**: PostgreSQL
-- **DevOps & Tools**: Railway, Git, CI/CD, Automation
-- **Design Tools**: Figma, Adobe XD
-- **AI/ML**: Machine Learning
-- **IoT**: NodeMCU
+- [![Web Development](https://img.shields.io/badge/Web_Development-000000?style=flat&logo=react&logoColor=white)](https://reactjs.org/): React.js, Express.js, Node.js
+- [![Mobile Development](https://img.shields.io/badge/Mobile_Development-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/): Flutter, Dart
+- [![Databases](https://img.shields.io/badge/Databases-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/): PostgreSQL
+- [![DevOps & Tools](https://img.shields.io/badge/DevOps_&_Tools-181717?style=flat&logo=github&logoColor=white)](https://github.com/): Railway, Git, CI/CD, Automation
+- [![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/): Machine Learning
+- [![IoT](https://img.shields.io/badge/IoT-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/): NodeMCU
+- [![Design Tools](https://img.shields.io/badge/Design_Tools-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/): Figma, Adobe XD
 
 ---
 
