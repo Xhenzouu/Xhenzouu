@@ -6,12 +6,11 @@ Building web & mobile apps with **PERN Stack, Python, AI/ML**
 
 ## 🛠 Skills
 
-| Frontend       | Backend            | Mobile       | Database       | DevOps        | Emerging      |
-|----------------|------------------|-------------|---------------|--------------|---------------|
-| ⚛ React ■■■■■■■ | 🟢 Node.js ■■■■■■■ | 🌀 Flutter ■■■■ | 🐘 PostgreSQL ■■■■■■ | 🔧 Git ■■■■■■ | 🐍 Python ■■■■■ |
-| 🎨 Figma • UI/UX | ⚙ Express • Flask | 📱 Cross-platform | ⚡ Optimization  | 🚀 Railway • CI/CD | 🤖 AI/ML • IoT |
-
-> **Legend:** ■■■■■■■ = strong experience, ■■■■□□ = moderate, ■■□□□□ = beginner  
+- **Web Development**: React.js, Express.js, Node.js
+- **Databases**: PostgreSQL
+- **DevOps & Tools**: Railway, Git, CI/CD, Automation
+- **AI/ML**: Machine Learning
+- **IoT**: NodeMCU
 
 ---
 
@@ -26,9 +25,9 @@ Building web & mobile apps with **PERN Stack, Python, AI/ML**
 - **Chairable**  
   Cross-platform e-commerce app. Flutter frontend, Flask backend, PostgreSQL database, multi-role system (customer, seller, admin).
 
-- **GamingRigz POS**  
-  Offline desktop POS using C# .NET WinForms. Embedded database, automated inventory and sales reports.
-
+- **Beanie Size Grader**  
+  Python CLI tool for automating size grading of knit beanies and apparel. Config-driven measurements, Excel output with formatting, and multi-product support.
+  
 ---
 
 ## 🎓 Education
