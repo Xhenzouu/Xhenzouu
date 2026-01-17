@@ -7,6 +7,7 @@ Building web & mobile apps with **PERN Stack, Python, AI/ML**
 ## 🛠 Skills
 
 - **Web Development**: React.js, Express.js, Node.js
+- **Mobile Development**: Flutter, Dart
 - **Databases**: PostgreSQL
 - **DevOps & Tools**: Railway, Git, CI/CD, Automation
 - **AI/ML**: Machine Learning
